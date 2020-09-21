@@ -1,4 +1,4 @@
-# This is the first part of the Coursera assignment.
+# This is the first part of the Coursera Git assignment.
 
 import pandas as pd
 import numpy as np
